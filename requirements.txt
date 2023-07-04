@@ -1,0 +1,5 @@
+ultralytics==8.0.124
+opencv-python==4.7.0.72
+filterpy==1.4.5
+scikit-image==0.17.2
+lap==0.4.0
